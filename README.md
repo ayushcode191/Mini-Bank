@@ -89,8 +89,8 @@ Create account:
 
 ```json
 {
-  "accountNo": "9876543210",
-  "holderName": "Ayush Sharma",
+  "accountNo": "8876543210",
+  "holderName": "Ayush Bansal",
   "balance": 1000,
   "isKYCVerified": true
 }
@@ -100,7 +100,7 @@ Deposit:
 
 ```json
 {
-  "accountNo": "9876543210",
+  "accountNo": "8876543210",
   "amount": 500
 }
 ```
@@ -109,7 +109,7 @@ Withdraw:
 
 ```json
 {
-  "accountNo": "9876543210",
+  "accountNo": "8876543210",
   "amount": 200
 }
 ```
@@ -118,7 +118,7 @@ Transfer:
 
 ```json
 {
-  "senderAccount": "9876543210",
+  "senderAccount": "8876543210",
   "receiverAccount": "8765432109",
   "amount": 300
 }
