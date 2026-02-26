@@ -90,7 +90,7 @@ Create account:
 ```json
 {
   "accountNo": "9876543210",
-  "holderName": "Rahul Sharma",
+  "holderName": "Ayush Sharma",
   "balance": 1000,
   "isKYCVerified": true
 }
